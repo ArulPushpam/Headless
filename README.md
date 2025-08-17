@@ -58,7 +58,7 @@ To enable editing in Experience Editor:
 4. Update the value of:
    ```
    <setting name="JavaScriptServices.ViewEngine.Http.JssEditingSecret" value="myrandomsecret123" />
-  ```
+  
 ### 4. Deploy to Sitecore (Optional)
 
 If you need to sync Sitecore items/packages, run:
