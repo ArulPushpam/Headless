@@ -63,14 +63,14 @@ To enable editing in Experience Editor:
 
 If you need to sync Sitecore items/packages, run:
 
-```bash
+```
 jss deploy items -c -d
 ```
 ### 5. Run the App (Connected Mode)
 
 Finally, start the frontend app in connected mode:
 
-```bash
+```
 npm run jss:start:connected
 ```
 ## ✅ Features Implemented
